@@ -1,5 +1,7 @@
 # P21031 -- Industry classification and analysis
 
+[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/project/P21031-Industry-project-S1FIR-FFTlGcJuMGQp1GMQ)
+
 This course aims to learn the basics of Natural Language processing within an industry project. In this course, you will learn how to extract and clean data, design a classification model from unsupervised datasets (without human labels), make accurate predictions and learn how to deploy a model into production.
 
 During this project, you will create a system that will extract information about a company from the web to predict its industry. Then, after knowing its industry, you will learn how to run business analytics on people in that industry compare to other sectors to give meaningful insights for several departments in a company. 
